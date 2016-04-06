@@ -12,7 +12,7 @@ Helm
 
 ## 视频
 
-![helm-play](https://cloud.githubusercontent.com/assets/1193966/14304300/37b3b3f8-fbe4-11e5-9595-dae0ad4bfbcc.jpg) <a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">高清无码</a>
+<a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">高清无码</a>
 
 ##捐助我
 
