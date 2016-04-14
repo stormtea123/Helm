@@ -8,7 +8,7 @@ Helm
 
 ## 安装
 
-<a href="http://share.weiyun.com/220643a443e12c5a02df9411bbd274ce">下载地址</a>
+<a href="http://pan.baidu.com/s/1czA85S" target="_blank">下载地址</a>
 
 ## 视频
 
