@@ -8,7 +8,7 @@ Helm
 
 ## 安装
 
-在<a href="https://github.com/stormtea123/Helm/releases/download/1.0/Helm.dmg">下载地址</a>选择你需要的版本
+<a href="http://share.weiyun.com/220643a443e12c5a02df9411bbd274ce">下载地址</a>
 
 ## 视频
 
