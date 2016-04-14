@@ -8,7 +8,7 @@ Helm
 
 ## 安装
 
-<a href="http://pan.baidu.com/s/1czA85S" target="_blank">下载地址</a>
+<a href="http://pan.baidu.com/s/1o8Uuo9k" target="_blank">下载地址</a>
 
 ## 视频
 
