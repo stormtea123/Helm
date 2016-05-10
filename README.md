@@ -1,14 +1,14 @@
 Helm
 -----------------
 
-帮助您管理hosts文件，在不同的开发环境中切换自如
+Helm is a simple hosts file manager. It enables you to edit hosts files and switch between them
 
 ![helm-store](https://cloud.githubusercontent.com/assets/1193966/14281832/f8ce6938-fb6d-11e5-85c5-3b45a30f2656.png)
 
 
 ## 安装
 
-<a href="http://pan.baidu.com/s/1o8Uuo9k" target="_blank">下载地址</a>
+<a href="https://itunes.apple.com/us/app/helm/id1099472017?l=zh&ls=1&mt=12">Mac App Store</a>
 
 ## 视频
 
