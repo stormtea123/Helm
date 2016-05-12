@@ -1,7 +1,7 @@
 Helm
 -----------------
 
-Helm is a free of simple hosts file manager. It enables you to edit hosts files and switch between them. It's free.
+Helm is a free of simple hosts file manager. It enables you to edit hosts files and switch between them.
 
 ![helm-store-2](https://cloud.githubusercontent.com/assets/1193966/15205065/d62c0480-1846-11e6-84be-d254e090cad3.png)
 
