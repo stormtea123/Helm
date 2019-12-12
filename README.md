@@ -26,11 +26,5 @@ Helm is a free of simple hosts file manager. It enables you to edit hosts files 
 
 <a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">Video Tutorial</a>
 
-##Donation
-
-![helm-pay](https://cloud.githubusercontent.com/assets/1193966/14282551/7595099c-fb71-11e5-8431-467d7067ea09.png)
-
-Alipay transfer scan code
-
 
 
