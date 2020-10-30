@@ -24,7 +24,5 @@ The first modification will appear a dialog box for selecting a file. By default
 
 第一次修改会出现选择文件的对话框，默认选择hosts文件后确认，这里是用来授权读写权限的。
 
-<a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">Video Tutorial</a>
-
 
 
