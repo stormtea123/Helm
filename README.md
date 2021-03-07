@@ -9,9 +9,8 @@ Helm is a free of simple hosts file manager. It enables you to edit hosts files 
 
 ### Download from Mac App Store
 
-
-<a href="https://itunes.apple.com/us/app/helm/id1099472017">English</a>
-<a href="https://itunes.apple.com/cn/app/id1099472017">中文</a>
+* <a href="https://itunes.apple.com/us/app/helm/id1099472017">English</a>
+* <a href="https://itunes.apple.com/cn/app/id1099472017">中文</a>
 
 ## Help
 
